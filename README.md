@@ -1,1 +1,1 @@
-This is commit fantasy score method
+This is commit fantasy recommendations
