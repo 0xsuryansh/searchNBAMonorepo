@@ -1,1 +1,1 @@
-This is commit added modules
+This is commit fantasy score method
