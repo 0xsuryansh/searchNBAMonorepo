@@ -1,1 +1,1 @@
-This is commit created player_map for pandas dataframe
+This is commit per scraper
