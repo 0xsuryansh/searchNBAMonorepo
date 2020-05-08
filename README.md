@@ -1,1 +1,1 @@
-This is commit code clean up
+This is commit added .gitattributes
