@@ -1,1 +1,1 @@
-This is commit added .gitattributes
+This is commit updated git attributes
