@@ -1,1 +1,1 @@
-This is commit added chat template
+This is commit added message box
