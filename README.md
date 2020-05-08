@@ -1,1 +1,1 @@
-This is commit updated git attributes
+This is commit update to main function
