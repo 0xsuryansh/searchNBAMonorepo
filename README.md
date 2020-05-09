@@ -1,1 +1,1 @@
-This is commit centered chat box
+This is commit message box ui
