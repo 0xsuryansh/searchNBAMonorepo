@@ -1,1 +1,1 @@
-This is commit added middleware for chat bot
+This is commit centered chat box
