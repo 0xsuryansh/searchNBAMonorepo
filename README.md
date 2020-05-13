@@ -1,1 +1,1 @@
-This is commit added background image
+This is commit added design to author card
