@@ -1,1 +1,1 @@
-This is commit added author page
+This is commit added background image
