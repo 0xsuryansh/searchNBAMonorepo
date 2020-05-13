@@ -1,1 +1,1 @@
-This is commit added design to author card
+This is commit added design to chatbox
