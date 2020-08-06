@@ -1,1 +1,1 @@
-This is commit image sizing
+This is commit Update issue templates
