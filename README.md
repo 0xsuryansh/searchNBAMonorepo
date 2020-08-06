@@ -1,1 +1,1 @@
-This is commit syntax
+This is commit image sizing
