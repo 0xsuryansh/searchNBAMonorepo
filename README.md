@@ -1,1 +1,1 @@
-This is commit syntax fix
+This is commit docs
