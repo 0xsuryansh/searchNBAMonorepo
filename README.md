@@ -1,1 +1,1 @@
-This is commit added NBA queries to dataset
+This is commit Function for random query filtering
