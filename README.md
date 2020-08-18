@@ -1,1 +1,1 @@
-This is commit player name scraper
+This is commit query dataset
