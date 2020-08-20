@@ -1,1 +1,1 @@
-This is commit query classification model
+This is commit model tuning
