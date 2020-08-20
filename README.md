@@ -1,3 +1,1 @@
-This is commit Merge pull request #9 from skekre98/datagen
-
-query dataset
+This is commit query classification model
