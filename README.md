@@ -1,1 +1,1 @@
-This is commit ranknode skeleton
+This is commit rank node response
