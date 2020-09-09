@@ -1,1 +1,3 @@
-This is commit tree fix
+This is commit Merge pull request #17 from skekre98/auto
+
+tree fix
