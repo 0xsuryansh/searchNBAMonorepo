@@ -1,1 +1,1 @@
-This is commit metric2stat
+This is commit scraper skeleton
