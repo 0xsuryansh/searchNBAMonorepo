@@ -1,1 +1,1 @@
-This is commit scraper skeleton
+This is commit stat scraper
