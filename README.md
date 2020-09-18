@@ -1,3 +1,1 @@
-This is commit Merge pull request #18 from skekre98/ranknode
-
-Ranknode V1
+This is commit Update ranknode.py
