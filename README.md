@@ -1,1 +1,1 @@
-This is commit statnode skeleton
+This is commit statnode classification
