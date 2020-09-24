@@ -1,1 +1,1 @@
-This is commit statnode classification
+This is commit statnode response
