@@ -1,1 +1,1 @@
-This is commit stat found
+This is commit Update CONTRIBUTING.md
