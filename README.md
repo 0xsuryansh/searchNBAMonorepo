@@ -1,1 +1,1 @@
-This is commit Refactor `get_target_name` function, add tests. Add fuzzywuzzy as dependecy.
+This is commit Refactor `get_player_url` into its own function and add test
