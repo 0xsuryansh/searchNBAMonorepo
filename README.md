@@ -1,1 +1,1 @@
-This is commit Updated query tokenizer
+This is commit Added case to handle Uppercase wh words
