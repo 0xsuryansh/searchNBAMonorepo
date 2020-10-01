@@ -1,1 +1,1 @@
-This is commit .
+This is commit Refactor `get_target_name` function, add tests. Add fuzzywuzzy as dependecy.
