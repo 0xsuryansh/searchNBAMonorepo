@@ -1,3 +1,1 @@
-This is commit Merge pull request #27 from Saif807380/update-tokenizer
-
-Improved query tokenizer
+This is commit [training-data-creation]| Remove toLower from funnel_name to generate correct training data
