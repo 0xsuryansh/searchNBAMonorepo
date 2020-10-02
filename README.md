@@ -1,1 +1,1 @@
-This is commit [training-data-creation]| Remove toLower from funnel_name to generate correct training data
+This is commit [training-data-creation] | add unit test case
