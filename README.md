@@ -1,1 +1,1 @@
-This is commit updated class labels
+This is commit class labels
