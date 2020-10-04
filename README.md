@@ -1,1 +1,3 @@
-This is commit :lipstick: Reformat Header
+This is commit Merge pull request #35 from MohammedBajuaifer/nba-standings
+
+NBA Standings Section V1
