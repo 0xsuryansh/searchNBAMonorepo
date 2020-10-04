@@ -1,3 +1,1 @@
-This is commit Merge pull request #35 from MohammedBajuaifer/nba-standings
-
-NBA Standings Section V1
+This is commit removed team object from get_standings function
