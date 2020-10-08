@@ -1,5 +1,3 @@
-This is commit Update ranknode.py
+This is commit Merge pull request #43 from gabesduhbear/patch-1
 
-Regarding issue #42: Created generate_random_reponse function in RankNode 
-
-Added 10 more responses, I hope you like them!
+Update ranknode.py
