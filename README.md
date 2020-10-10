@@ -1,3 +1,1 @@
-This is commit Merge pull request #52 from skekre98/setup
-
-setup script
+This is commit Merge branch 'master' of https://github.com/skekre98/NBA-Search into blog
