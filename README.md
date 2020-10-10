@@ -1,1 +1,1 @@
-This is commit blog skeleton
+This is commit changed color scheme
