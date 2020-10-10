@@ -1,1 +1,1 @@
-This is commit Merge branch 'master' of https://github.com/skekre98/NBA-Search into blog
+This is commit blog skeleton
