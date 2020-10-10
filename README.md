@@ -1,1 +1,1 @@
-This is commit changed color scheme
+This is commit .
