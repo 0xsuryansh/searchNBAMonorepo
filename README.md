@@ -1,1 +1,1 @@
-This is commit blog image
+This is commit centered blog
