@@ -1,1 +1,1 @@
-This is commit centered blog
+This is commit center fix
