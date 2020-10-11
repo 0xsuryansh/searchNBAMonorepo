@@ -1,1 +1,1 @@
-This is commit .
+This is commit centered blogs
