@@ -1,1 +1,1 @@
-This is commit .
+This is commit added function to generate info query data, fixed line 101 not choosing correct list
