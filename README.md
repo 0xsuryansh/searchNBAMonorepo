@@ -1,1 +1,1 @@
-This is commit centered blog
+This is commit minor script change to query generation
