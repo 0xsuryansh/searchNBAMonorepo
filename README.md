@@ -1,1 +1,1 @@
-This is commit cluster store init
+This is commit kmeans
