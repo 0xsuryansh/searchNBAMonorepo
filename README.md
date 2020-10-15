@@ -1,1 +1,1 @@
-This is commit similarity
+This is commit distance
