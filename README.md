@@ -1,1 +1,1 @@
-This is commit distance
+This is commit reset
