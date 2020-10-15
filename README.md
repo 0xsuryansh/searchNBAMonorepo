@@ -1,1 +1,1 @@
-This is commit agglomerative
+This is commit similarity
