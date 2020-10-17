@@ -1,1 +1,3 @@
-This is commit build_table
+This is commit Merge pull request #67 from skekre98/lab
+
+GraphBuilder
