@@ -1,3 +1,1 @@
-This is commit Merge pull request #73 from skekre98/lab
-
-.
+This is commit created node to answer existential questions and provide random responses
