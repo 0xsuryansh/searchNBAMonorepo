@@ -1,1 +1,1 @@
-This is commit Added function definitions for table_builder and add_row
+This is commit Added exception handling
