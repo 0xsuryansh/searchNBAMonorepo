@@ -1,1 +1,3 @@
-This is commit added test case, corrected grammar infonode responses, and added support for test case to generate_random_response.
+This is commit Update infonode.py
+
+corrected grammar.
