@@ -1,3 +1,1 @@
-This is commit Update infonode.py
-
-corrected grammar.
+This is commit Update table_builder.py
