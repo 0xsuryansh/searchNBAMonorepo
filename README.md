@@ -1,3 +1,1 @@
-This is commit Merge pull request #82 from skekre98/blog
-
-Blog update: Image Mask
+This is commit Update table_builder.py
