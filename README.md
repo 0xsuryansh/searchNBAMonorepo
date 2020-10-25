@@ -1,1 +1,1 @@
-This is commit Replaced row reference with existing label reference
+This is commit avg_distance measure and k-means clustering done
