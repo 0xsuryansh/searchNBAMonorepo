@@ -1,1 +1,1 @@
-This is commit avg_distance measure and k-means clustering done
+This is commit Implement get_game_adv_stats
