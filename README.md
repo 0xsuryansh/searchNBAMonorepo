@@ -1,1 +1,3 @@
-This is commit removed inference/models/query_classifier.pkl
+This is commit Merge pull request #89 from RaihanSabique/feature
+
+Feature
