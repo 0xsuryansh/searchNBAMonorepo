@@ -1,3 +1,1 @@
-This is commit Merge pull request #89 from RaihanSabique/feature
-
-Feature
+This is commit query classifier
