@@ -1,1 +1,1 @@
-This is commit Refactor dist for arbitary array length and remove .pkl file
+This is commit Fixed display error in table builder function
