@@ -1,1 +1,1 @@
-This is commit Implement get_game_adv_stats
+This is commit adv_stat game scraper test
