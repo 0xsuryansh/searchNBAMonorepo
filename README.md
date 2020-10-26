@@ -1,1 +1,1 @@
-This is commit Merge branch 'master' into master
+This is commit removed inference/models/query_classifier.pkl
