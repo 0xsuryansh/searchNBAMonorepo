@@ -1,1 +1,1 @@
-This is commit resolve discussions
+This is commit resolve conflict
