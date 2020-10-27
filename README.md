@@ -1,1 +1,3 @@
-This is commit set up tmp
+This is commit Merge pull request #95 from skekre98/temp
+
+set up tmp
