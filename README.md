@@ -1,3 +1,1 @@
-This is commit Merge pull request #91 from samin-batra/master
-
-Fixed display error in table builder
+This is commit modified InferenceNetwork to improve query filtering
