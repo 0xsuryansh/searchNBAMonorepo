@@ -1,1 +1,1 @@
-This is commit modified InferenceNetwork to improve query filtering
+This is commit Implement bar graph builder
