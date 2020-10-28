@@ -1,1 +1,1 @@
-This is commit Changed bars to bar_vals
+This is commit fixed bar_vals usage
