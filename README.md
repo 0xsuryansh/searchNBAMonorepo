@@ -1,1 +1,1 @@
-This is commit fixed previous issue
+This is commit fixed typo
