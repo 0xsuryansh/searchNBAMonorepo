@@ -1,1 +1,1 @@
-This is commit fixed typo
+This is commit added method argument, restore order of if tree under response() method
