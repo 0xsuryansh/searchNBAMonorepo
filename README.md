@@ -1,3 +1,1 @@
-This is commit Merge pull request #119 from AColocho/master
-
-Responses and unittest
+This is commit renovated chatbox with autoscroll and update
