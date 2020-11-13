@@ -1,1 +1,1 @@
-This is commit cleared input prior to chatbot response
+This is commit updated send button size and color
