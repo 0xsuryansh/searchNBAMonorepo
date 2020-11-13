@@ -1,1 +1,1 @@
-This is commit renovated chatbox with autoscroll and update
+This is commit cleared input prior to chatbot response
