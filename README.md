@@ -1,1 +1,1 @@
-This is commit implemented average_similarity
+This is commit implemented average_similarity with cosine similarity
