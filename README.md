@@ -1,1 +1,1 @@
-This is commit implemented average_similarity with cosine similarity
+This is commit removing unused import and print statement
