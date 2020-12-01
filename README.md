@@ -1,1 +1,1 @@
-This is commit removed print statement
+This is commit added model map and moved .pkl file
