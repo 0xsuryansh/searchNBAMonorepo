@@ -1,1 +1,1 @@
-This is commit added model map and moved .pkl file
+This is commit fixed .pkl path in classifier and network
