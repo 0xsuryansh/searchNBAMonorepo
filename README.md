@@ -1,1 +1,1 @@
-This is commit Comment fonction statnode.py
+This is commit Delete statnode.py
