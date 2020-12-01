@@ -1,1 +1,1 @@
-This is commit Delete statnode.py
+This is commit fixed implementation average_similarity
