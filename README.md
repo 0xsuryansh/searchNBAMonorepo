@@ -1,1 +1,1 @@
-This is commit fixed implementation average_similarity
+This is commit removed print statement
