@@ -1,1 +1,1 @@
-This is commit Updated usage statement
+This is commit Comment fonction statnode.py
