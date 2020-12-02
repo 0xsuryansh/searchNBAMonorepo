@@ -1,3 +1,5 @@
-This is commit Merge pull request #130 from kelaaron/test_script_for_models
+This is commit Replace spaCy sim. method with FuzzyWuzzy matching
 
-Created test script for models
+- in StatNode, switched from using spaCy similarity if no exact match
+- to using FuzzyWuzzy fuzzy string matching
+- Not perfect, but 3-point stats do not come up for rebounds queries
