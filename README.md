@@ -1,5 +1,6 @@
-This is commit Replace spaCy sim. method with FuzzyWuzzy matching
+This is commit Clean up needless variables, leverage threshold
 
-- in StatNode, switched from using spaCy similarity if no exact match
-- to using FuzzyWuzzy fuzzy string matching
-- Not perfect, but 3-point stats do not come up for rebounds queries
+- Now using a min threshold of 50 (ratio is from 0 to 100)
+- From tests, the lowest ratio I found for a good match was 57
+- If neither search through total_stat_map or adv_stat_map are
+- Over 50, return None
