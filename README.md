@@ -1,3 +1,1 @@
-This is commit Merge pull request #134 from AidanKenney/missclassification
-
-Replace spaCy sim. method with FuzzyWuzzy matching
+This is commit Reissue pull request for issue-38
