@@ -1,3 +1,3 @@
-This is commit Update predictions.html
+This is commit Merge pull request #137 from iamalexk/new-issue-38
 
-Moved everything inside of the html tags one tab in because my VSCode has a plugin that would automatically shift everything one tab to the left, causing a merge error
+Reissue pull request for issue-38
