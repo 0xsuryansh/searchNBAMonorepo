@@ -1,3 +1,4 @@
-This is commit Merge pull request #141 from Nahoyhp/master
+This is commit CSS adjustments for Firefox styling behavior
 
-Fixes #117 Joblib Import Failure
+- Added "background-clip: padding-box" to table class
+- Removed max-width from bootstrap col-md-1 class
