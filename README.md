@@ -1,3 +1,3 @@
-This is commit Merge pull request #143 from AidanKenney/firefox-bug
+This is commit Merge pull request #1 from skekre98/master
 
-Firefox styling bug
+Updating
