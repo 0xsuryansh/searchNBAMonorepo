@@ -1,1 +1,1 @@
-This is commit chandle NoneType Error in scraper.py
+This is commit empty nested lists
