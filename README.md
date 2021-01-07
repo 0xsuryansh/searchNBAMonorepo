@@ -1,1 +1,1 @@
-This is commit handle empty bracket, w/ downstream errors
+This is commit chandle NoneType Error in scraper.py
