@@ -1,1 +1,1 @@
-This is commit fixed finals bracket indexing
+This is commit updated w comments on pr
