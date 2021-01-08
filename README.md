@@ -1,1 +1,1 @@
-This is commit empty nested lists
+This is commit fixed finals bracket indexing
