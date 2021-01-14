@@ -1,5 +1,1 @@
-This is commit Update statnode.py
-
-I tried to resolve the error of my pull request # 127 which I think was an indentation error.
-
-I also check grammatically the sentences of the chatbox response
+This is commit Merge branch 'Florent18570' of https://github.com/Florent18570/NBA-Search into Florent18570
