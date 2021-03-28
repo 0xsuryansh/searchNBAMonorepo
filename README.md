@@ -1,3 +1,4 @@
-This is commit Merge pull request #148 from Florent18570/Florent18570
+This is commit Including documentation for InferenceNetwork class and the response method.
 
-Issue #123 and #115
+The documentation follows PEP 257 docstring standards.
+https://www.python.org/dev/peps/pep-0257/#id15
