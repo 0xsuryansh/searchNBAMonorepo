@@ -1,3 +1,1 @@
-This is commit Merge pull request #2 from skekre98/master
-
-merge
+This is commit removed duplicates and sorted values in query.csv and text_data.py:alltime_player_list
