@@ -1,3 +1,3 @@
-This is commit Merge pull request #152 from smwitkowski/issue_113
+This is commit Merge pull request #2 from skekre98/master
 
-Including documentation for inference_network.py
+merge
