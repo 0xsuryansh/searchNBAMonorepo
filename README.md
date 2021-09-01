@@ -1,3 +1,3 @@
-This is commit Merge pull request #158 from HarshVT8999/HarshVT
+This is commit Merge pull request #157 from AColocho/alejandro
 
- updates to README.md
+Removed duplicates from query.csv and text_data.py:alltime_player_list
